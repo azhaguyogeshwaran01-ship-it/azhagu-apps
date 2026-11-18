@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Darkroom",
+  "description": "GPU-accelerated web photo editing studio engineered for lag-free color grading, tone curves, HSL mixing, and full-resolution export on any device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
